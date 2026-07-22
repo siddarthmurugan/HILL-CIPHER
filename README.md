@@ -56,5 +56,7 @@ for i in range(0, len(cipher), 3):
 print("Decrypted Text:", decrypted)
 ```
 ## OUTPUT
+<img width="1919" height="692" alt="Screenshot 2026-07-22 134305" src="https://github.com/user-attachments/assets/3fd706e9-1904-4f11-bd32-2f2633134928" />
 
 ## RESULT
+Thus, the Hill Cipher encryption and decryption technique was successfully implemented using Python. The given plaintext was encrypted using the 3 × 3 key matrix, and the original plaintext was correctly recovered through the decryption process using the inverse key matrix modulo 26.
