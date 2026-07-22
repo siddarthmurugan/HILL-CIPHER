@@ -12,7 +12,7 @@ Each letter is represented by a number modulo 26. Often the simple scheme A = 0,
 
 ## ALGORITHM:
 
-STEP-1: Read the plain text and key from the user.
+STEP-1: Read the plain text and key from the user.\n
 STEP-2: Split the plain text into groups of length three. 
 STEP-3: Arrange the keyword in a 3*3 matrix.
 STEP-4: Multiply the two matrices to obtain the cipher text of length three.
